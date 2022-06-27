@@ -5,7 +5,12 @@ Working off this playlist: https://youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4
 # Setup
 ## Linux Systems
 * Get the current version of NeoVim by following the instructions in the `NeoVim Version` section.
-* 
+* Clone the repository into the `.config` directory
+  * If there is already an `nvim` directory in your `.config` directory, you need to rename it or delete it first.
+* Open NeoVim with `nvim` and ignore any errors you get about missing packages.
+* Packer will start and dowload any missing packages
+* Close and reopen NeoVim after installs complete.
+
 # NeoVim Version
 Some plugins require neovim ver. 0.7.0 or higher. To get newest version:
 * Download the appimage for the newest version [here](https://github.com/neovim/neovim/releases)
