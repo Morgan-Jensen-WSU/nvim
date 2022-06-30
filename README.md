@@ -15,7 +15,7 @@ Working off this playlist: https://youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4
 Some plugins require neovim ver. 0.7.0 or higher. To get newest version:
 * Download the appimage for the newest version [here](https://github.com/neovim/neovim/releases)
 * Make it executable with `chmod +x nvim.appimage`
-* Add it to your path with `sudo mv neovim.appimage /usr/local/bin/nvim`
+* Add it to your path with `sudo mv nvim.appimage /usr/local/bin/nvim`
 
 # Important Shortcuts (other than regular vim shortcuts)
 * gl: get error info (have to be on line with the error)
