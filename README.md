@@ -18,8 +18,8 @@ Some plugins require neovim ver. 0.7.0 or higher. To get newest version:
 * Add it to your path with `sudo mv nvim.appimage /usr/local/bin/nvim`
 
 # Important Shortcuts (other than regular vim shortcuts)
-* gl: get error info (have to be on line with the error)
-* <space>e: open file explorer
+* `gl`: get error info (have to be on line with the error)
+* `<space>e`: open file explorer
 
 # Issues
 2/16/21 [RESOLVED]: The autocommand to download packer does not seem to be working  
